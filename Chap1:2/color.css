@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.red{
+    background-color: rgb(77, 179, 148);
+    height: 200px;
+    color: aliceblue;
+   
+
+}
+.green{
+    background-color: green;
+    color: bisque;
+    height: 150px;
+}

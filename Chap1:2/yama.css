@@ -1,0 +1,39 @@
+body{
+background-color: aqua;
+}
+h1{
+    color: rgb(226, 135, 17);
+}
+h1{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+.class{
+    text-align: left    ;
+}
+
+h2{
+    column-rule-color: blue;
+    border-color: royalblue;
+    
+
+}
+.saugat{
+    font-weight: bold;
+    font-size: 50px ;
+}
+.one{
+    color:blue;
+}
+
+.AnotherOne{
+    text-align: center;
+    color: red ;
+}
+
+.firstclass, .secondclass , .thirdclass {
+    color: yellowgreen
+}
+
